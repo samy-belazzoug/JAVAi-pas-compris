@@ -1,3 +1,4 @@
+//1. Afficher "Hello, World!" en Java.
 public class Exercice1 {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
